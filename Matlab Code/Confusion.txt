@@ -1,0 +1,3 @@
+
+Total Instance = 80
+class1==>0class2==>1class3==>2Confusion Matrix
